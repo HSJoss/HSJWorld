@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name ="HSJworld",
-    version="0.0.1",
+    version="0.0.3",
     description="HSJ's library",
     author="HSJ",
     url="https://github.com/HSJoss/HSJWorld",
